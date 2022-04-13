@@ -2076,7 +2076,7 @@ figcaption {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 100%;
+  /* width: 100%; */
   height: 90px;
   max-width: 1170px;
   margin-right: 0px;
@@ -2097,7 +2097,7 @@ figcaption {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 100%;
+  /* width: 100%; */
   height: auto;
   min-height: 100%;
   margin-top: -90px;
@@ -3220,7 +3220,7 @@ figcaption {
   display: flex;
   width: 100vw;
   max-height: 720px;
-  padding: 120px 30px;
+  /* padding: 120px 30px; */
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -3268,7 +3268,7 @@ figcaption {
 .premium-banner-inner {
   max-width: 370px;
   padding: 60px 50px;
-  background-color: rgba(227, 186, 179, 0.9);
+  background-color: rgb(137 142 60);
   opacity: 1;
 }
 
@@ -3292,13 +3292,13 @@ figcaption {
 }
 
 .premium-banner-inner.buisness {
-  max-width: 330px;
-  background-color: rgba(54, 56, 76, 0.9);
+  max-width: 100%;
+  background-color: rgb(137 142 60);
 }
 
 .premium-banner-inner.social {
-  max-width: 330px;
-  background-color: rgba(225, 212, 196, 0.9);
+  max-width: 100%;
+  background-color: rgb(137 142 60);
 }
 
 .premium-banner-inner.tomorrow {
@@ -3601,7 +3601,7 @@ figcaption {
   display: -ms-flexbox;
   display: flex;
   margin-top: -60px;
-  background-color: #e3bab3;
+  background-color: #898e3c;
 }
 
 .button-pricing.mission:hover {
@@ -3962,7 +3962,7 @@ figcaption {
   -ms-flex-line-pack: stretch;
   align-content: stretch;
   background-color: #fff;
-  box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.05);
+  box-shadow: 0 5px 20px 0 rgba(137 142 60);
   text-decoration: none;
 }
 
