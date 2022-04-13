@@ -2457,7 +2457,7 @@ figcaption {
 }
 
 .h2-container {
-  width: 50%;
+  width: 100%;
   margin-bottom: 200px;
 }
 
@@ -3307,7 +3307,7 @@ figcaption {
 }
 
 .premium-banner-inner.pink {
-  max-width: 330px;
+  max-width: 100%;
 }
 
 .premium-intro {
