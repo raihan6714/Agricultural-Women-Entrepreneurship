@@ -3218,7 +3218,7 @@ figcaption {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 100vw;
+  /* width: 100vw; */
   max-height: 720px;
   /* padding: 120px 30px; */
   -webkit-box-pack: center;
@@ -7359,4 +7359,9 @@ figcaption {
   grid-column-end: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
+}
+
+/* my css  */
+.card img {
+  margin-top: 10px;
 }
