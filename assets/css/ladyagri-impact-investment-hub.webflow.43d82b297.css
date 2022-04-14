@@ -3229,7 +3229,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url("../5ea4337427484b9ceaa65423_P4.jpg");
+  /* background-image: url("../5ea4337427484b9ceaa65423_P4.jpg"); */
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3247,7 +3247,7 @@ figcaption {
   display: none;
 }
 
-.value.network {
+/* .value.network {
   background-image: url("../5ea433c8088154407faff76b_P1.jpg");
 }
 
@@ -3263,7 +3263,7 @@ figcaption {
 .value.tomorrow {
   display: none;
   background-image: url("../5ea43a3f789969d3cbc68463_P12-.jpg");
-}
+} */
 
 .premium-banner-inner {
   max-width: 370px;
