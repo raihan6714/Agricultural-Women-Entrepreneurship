@@ -1,8 +1,3 @@
-/* Generated on: Tue Apr 05 2022 10:23:22 GMT+0000 (Coordinated Universal Time) */
-/* ==========================================================================
-   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
-   ========================================================================== */
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -2149,7 +2144,7 @@ figcaption {
 
 .paragraph.cc-gray.valueparagraph.business {
   display: block;
-  color: #e3bab3;
+  color: #898e3c;
 }
 
 .paragraph.cc-gray.unaligned {
@@ -2184,7 +2179,7 @@ figcaption {
   margin-top: 0px;
   margin-right: 22px;
   margin-bottom: 0px;
-  background-color: #e3bab3;
+  background-color: #898e3c;
   font-family: "Libre Franklin", sans-serif;
   font-weight: 400;
 }
@@ -3086,7 +3081,7 @@ figcaption {
 .header-inner.cc-header-extra {
   margin-bottom: 100px;
   padding-bottom: 210px;
-  background-color: #e3bab3;
+  background-color: #898e3c;
 }
 
 .header-inner.cc-header-extra.pro {
@@ -3099,7 +3094,7 @@ figcaption {
 }
 
 .header-inner.cc-header-extra.whatwedo {
-  background-color: #e3bab3;
+  background-color: #898e3c;
 }
 
 .header-inner-content {
@@ -3495,7 +3490,7 @@ figcaption {
 
 .button-pricing.w--current {
   display: inline-block;
-  background-color: #e3bab3;
+  background-color: #898e3c;
 }
 
 .button-pricing.w--current:hover {
@@ -4293,7 +4288,7 @@ figcaption {
 .hero-image.shadow-pictures {
   width: auto;
   height: auto;
-  box-shadow: 35px 35px 0 0 #e3bab3;
+  box-shadow: 35px 35px 0 0 #898e3c;
 }
 
 .button-2 {
@@ -4312,7 +4307,7 @@ figcaption {
   display: inline-block;
   max-width: 100%;
   padding-left: 0px;
-  box-shadow: 35px 35px 0 0 #e3bab3;
+  box-shadow: 35px 35px 0 0 #898e3c;
 }
 
 .image-3.founders {
@@ -4323,7 +4318,7 @@ figcaption {
 
 .shadow-pictures {
   max-width: 100%;
-  box-shadow: 35px 35px 0 0 #e3bab3;
+  box-shadow: 35px 35px 0 0 #898e3c;
 }
 
 .slide-4 {
@@ -4817,7 +4812,7 @@ figcaption {
 
 .button-3.cc-cta {
   margin-top: 0px;
-  background-color: #e3bab3;
+  background-color: #898e3c;
   font-family: "Libre Franklin", sans-serif;
   font-weight: 400;
 }
@@ -4911,6 +4906,7 @@ figcaption {
 
 .image-8 {
   margin-top: 100px;
+  margin-left: 85px;
 }
 
 .rich-text-block {
@@ -5431,7 +5427,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #e3bab3;
+  background-color: #898e3c;
   font-family: "Libre Franklin", sans-serif;
   font-size: 16px;
   text-align: center;
@@ -5449,7 +5445,7 @@ figcaption {
   position: relative;
   left: -495px;
   clear: none;
-  background-color: #e3bab3;
+  background-color: #898e3c;
   font-size: 20px;
   text-align: left;
 }
@@ -5457,7 +5453,7 @@ figcaption {
 .button-8 {
   margin-top: 121px;
   margin-right: 10px;
-  background-color: #e3bab3;
+  background-color: #898e3c;
   font-family: "Libre Franklin", sans-serif;
   font-size: 16px;
 }
@@ -5516,7 +5512,7 @@ figcaption {
   height: 40px;
   margin-left: -233px;
   border-radius: 5px;
-  background-color: #e3bab3;
+  background-color: #898e3c;
   font-size: 18px;
   text-align: center;
 }
@@ -5605,7 +5601,7 @@ figcaption {
   right: -244px;
   bottom: 24px;
   width: 220px;
-  background-color: #e3bab3;
+  background-color: #898e3c;
   color: #fff;
   font-size: 16px;
   line-height: 24px;
@@ -5958,7 +5954,7 @@ figcaption {
   }
 
   .icon-2:focus {
-    background-color: #e3bab3;
+    background-color: #898e3c;
     color: #fff;
   }
 
@@ -5991,7 +5987,7 @@ figcaption {
 
   .hero-image.shadow-pictures {
     max-width: 100%;
-    box-shadow: 18px 18px 0 0 #e3bab3;
+    box-shadow: 18px 18px 0 0 #898e3c;
   }
 
   .image-3 {
@@ -6032,7 +6028,7 @@ figcaption {
   }
 
   .toselect {
-    background-color: #e3bab3;
+    background-color: #898e3c;
   }
 
   .toselect.w--current {
@@ -6463,7 +6459,7 @@ figcaption {
 
   .hero-image.shadow-pictures {
     margin-bottom: 36px;
-    box-shadow: 35px 35px 0 0 #e3bab3;
+    box-shadow: 35px 35px 0 0 #898e3c;
   }
 
   .image-3 {
@@ -6847,7 +6843,7 @@ figcaption {
 
   .hero-image.shadow-pictures {
     max-width: 100%;
-    box-shadow: 25px 25px 0 0 #e3bab3;
+    box-shadow: 25px 25px 0 0 #898e3c;
   }
 
   .image-3 {
